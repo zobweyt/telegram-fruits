@@ -1,5 +1,3 @@
-# TODO: max len check error
-
 __all__ = ["fruit_edit_window"]
 
 from typing import Any, cast
